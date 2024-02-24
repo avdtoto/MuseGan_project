@@ -8,6 +8,7 @@ MuseGAN is a deep learning project focused on generating complex musical composi
 - [Training](#train)
 - [Requirements](#quirements)
 - [Links](#links)
+- [Results and music samples](#results)
 
 ## Training 
 
@@ -24,3 +25,7 @@ To start training your own MuseGAN simply run `trainer.py` script with needed pa
 ## Links
 
 * [MuseGAN](https://arxiv.org/abs/1709.06298)
+
+## Results and music samples
+
+See resatls and two music samples [here](https://github.com/avdtoto/MuseGan_project/blob/main/results)
